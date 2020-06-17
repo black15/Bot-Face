@@ -15,4 +15,5 @@ python install.py
 8) REMOVE FRIEND
 00) LOGOUT & EXIT
 
+# ASCIICAST VIDEO :
 [![asciicast](https://i.ibb.co/ccT0zT1/Screenshot-2020-06-17-22-51-41.png)](https://asciinema.org/a/CFAFTCkpvWxCm2811lQPqFurY)
