@@ -3,10 +3,7 @@ from fbchat.models import *
 import getpass,os,sys
 from time import sleep
 from termcolor import colored
-"""
-GReETz 2 Dj3Bb1RaN0n && BLACK-HACKER
- 
-"""
+
 def slowprints1(slow):
         for slowprint in slow +"\n":
             sys.stdout.write(slowprint)
